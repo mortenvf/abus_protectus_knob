@@ -1,3 +1,3 @@
 # Abus Protectus Knob
 
-OpenSCAD model of knob for ABUC Protectus bicycle lock.
+OpenSCAD model of knob for ABUS Protectus bicycle lock.
